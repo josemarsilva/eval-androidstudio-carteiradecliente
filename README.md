@@ -1,2 +1,76 @@
 # eval-androidstudio-carteiradecliente
 Evaluation Android Studio Carteira de Cliente
+
+# README #
+
+## 1. Introdução ##
+
+Este repositório contém o projeto **???template-project???** . 
+
+### 2. Documentação ###
+
+### 2.1. Diagrama de Caso de Uso (Use Case Diagram) ###
+
+```image-file
+./doc/*.*
+```
+
+### 2.2. Diagrama de Implantação (Deploy Diagram) ###
+
+```image-file
+./doc/*.*
+```
+
+### 2.3. Diagrama de Atividades (Activity Diagram) ###
+
+```image-file
+./doc/*.*
+```
+
+
+### 2.4. Diagrama Modelo Banco de Dados (Database Data Model) ###
+
+* n/a
+
+
+## 3. Projeto ##
+
+### 3.1. Pré-requisitos ###
+
+* Java JDK 8
+* Eclipse IDE
+* Maven 3+
+* pom.xml: Spring Boot Starter Parent; Spring Boot Starter Web; Properties Java version 8; Spring Boot Maven Plugin
+
+
+### 3.2. Guia para Desenvolvimento ###
+
+* veja os vídeos e os step-by-step na seção 'Referências'
+
+
+### 3.3. Guia para Configuração ###
+
+* n/a - Este projeto contém apenas documentação e diagramas
+
+
+### 3.4. Guia para Teste ###
+
+* n/a - Este projeto contém apenas documentação e diagramas
+
+
+### 3.5. Guia para Implantação ###
+
+* n/a - Este projeto contém apenas documentação e diagramas
+
+
+### 3.6. Guia para Demonstração ###
+
+* n/a - Este projeto contém apenas documentação e diagramas
+
+
+## Referências ##
+
+* [01 - Novo Curso - Android Studio Aula 01 – Introdução Parte 1 - Carteira de Cliente](https://www.youtube.com/watch?v=MnJEbS5p3kQ)
+* [02 - Novo Curso - Android Studio Aula 02 – Introdução Parte 2 - Carteira de Cliente](https://www.youtube.com/watch?v=g1Zq_nyc8DM)
+* [03 - Novo Curso - Android Studio Aula 03 – Adicionando um Basic Activity](https://www.youtube.com/watch?v=h9uPk-baha4)
+* [04 - Novo Curso - Android Studio Aula 04 – ConstraintLayout e Exibindo um Activity](https://www.youtube.com/watch?v=0QCO6pZ9vxY&t=12s)

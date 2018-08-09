@@ -5,7 +5,7 @@ Evaluation Android Studio Carteira de Cliente
 
 ## 1. Introdução ##
 
-Este repositório contém o projeto **???template-project???** . 
+Este repositório contém o projeto **eval-androidstudio-carteiradecliente** . 
 
 ### 2. Documentação ###
 
@@ -37,15 +37,12 @@ Este repositório contém o projeto **???template-project???** .
 
 ### 3.1. Pré-requisitos ###
 
-* Java JDK 8
-* Eclipse IDE
-* Maven 3+
-* pom.xml: Spring Boot Starter Parent; Spring Boot Starter Web; Properties Java version 8; Spring Boot Maven Plugin
+* Android Studio (3.1.4)
 
 
 ### 3.2. Guia para Desenvolvimento ###
 
-* veja os vídeos e os step-by-step na seção 'Referências'
+* Step-by-step na seção 'Referências'
 
 
 ### 3.3. Guia para Configuração ###

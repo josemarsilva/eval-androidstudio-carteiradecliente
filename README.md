@@ -16,7 +16,7 @@ Este repositório contém o projeto **eval-androidstudio-carteiradecliente** .
 
 ### 2.2. Diagrama de Implantação (Deploy Diagram) ###
 
-![Diagrama de Implantação](https://github.com/josemarsilva/eval-androidstudio-carteiradecliente/blob/master/doc/Diagrama%20de%20Implantacao%20-%2000%20-%20Contexto%20Carteira%20de%20Cliente.png) 
+![Diagrama de Implantação](https://github.com/josemarsilva/eval-androidstudio-carteiradecliente/blob/master/doc/Diagrama%20Implantacao%20-%2000%20-%20Contexto%20Carteira%20de%20Cliente.png) 
 
 
 ### 2.3. Diagrama de Atividades (Activity Diagram) ###

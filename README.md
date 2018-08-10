@@ -11,14 +11,13 @@ Este repositório contém o projeto **eval-androidstudio-carteiradecliente** .
 
 ### 2.1. Diagrama de Caso de Uso (Use Case Diagram) ###
 
-![Diagrama de Caso de Uso](https://github.com/josemarsilva/eval-androidstudio-carteiradecliente/blob/master/doc/Diagrama%20Caso%20de%20Uso%20-%2000%20-%20Diagrama%20de%20Contexto.png) 
+![Diagrama de Caso de Uso](https://github.com/josemarsilva/eval-androidstudio-carteiradecliente/blob/master/doc/Diagrama%20Caso%20de%20Uso%20-%2000%20-%20Diagrama%20de%20Contexto%20Carteira%20de%20Cliente.png) 
 
 
 ### 2.2. Diagrama de Implantação (Deploy Diagram) ###
 
-```image-file
-./doc/*.*
-```
+![Diagrama de Caso de Uso](https://github.com/josemarsilva/eval-androidstudio-carteiradecliente/blob/master/doc/Diagrama%20de%20Implantacao%20-%2000%20-%20Diagrama%20de%20Implantacao%20Carteira%20de%20Cliente.png) 
+
 
 ### 2.3. Diagrama de Atividades (Activity Diagram) ###
 

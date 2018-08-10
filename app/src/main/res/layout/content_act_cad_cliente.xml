@@ -8,4 +8,11 @@
     tools:context=".ActCadCliente"
     tools:showIn="@layout/act_cad_cliente">
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="164dp"
+        tools:layout_editor_absoluteY="93dp" />
 </android.support.constraint.ConstraintLayout>

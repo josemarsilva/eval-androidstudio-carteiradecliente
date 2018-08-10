@@ -69,3 +69,4 @@ Este repositório contém o projeto **eval-androidstudio-carteiradecliente** .
 * [02 - Novo Curso - Android Studio Aula 02 – Introdução Parte 2 - Carteira de Cliente](https://www.youtube.com/watch?v=g1Zq_nyc8DM)
 * [03 - Novo Curso - Android Studio Aula 03 – Adicionando um Basic Activity](https://www.youtube.com/watch?v=h9uPk-baha4)
 * [04 - Novo Curso - Android Studio Aula 04 – ConstraintLayout e Exibindo um Activity](https://www.youtube.com/watch?v=0QCO6pZ9vxY&t=12s)
+* [Desabilitar Google Play Protect](https://www.youtube.com/watch?v=i54s0cXckeo)

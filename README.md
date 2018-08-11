@@ -66,7 +66,20 @@ Este repositório contém o projeto **eval-androidstudio-carteiradecliente** .
 ## Referências ##
 
 * [01 - Novo Curso - Android Studio Aula 01 – Introdução Parte 1 - Carteira de Cliente](https://www.youtube.com/watch?v=MnJEbS5p3kQ)
+  * baixar, instalar a IDE Android Studio, verificar updates, SDK Manager
+  * criar projetos no Android Studio, nome da aplicação, domínio, estrutura pacote java, path do projeto, versão mínima SDK, etc
+  * entendendo pastas e arquivos padrões na estrutura de diretórios: /app, app/manifest/AndroidManifest.xml, /java, /res, /Gradle Scripts
 * [02 - Novo Curso - Android Studio Aula 02 – Introdução Parte 2 - Carteira de Cliente](https://www.youtube.com/watch?v=g1Zq_nyc8DM)
+  * sobre IDE Android Studio: opções Settings e Project Structure do meu File
+  * configuração do emulador para testar a aplicação
 * [03 - Novo Curso - Android Studio Aula 03 – Adicionando um Basic Activity](https://www.youtube.com/watch?v=h9uPk-baha4)
+  * adicionar um Activity: Basic Activity que equivale a uma janela
+  * executar projeto com emulador
 * [04 - Novo Curso - Android Studio Aula 04 – ConstraintLayout e Exibindo um Activity](https://www.youtube.com/watch?v=0QCO6pZ9vxY&t=12s)
+  * utilizar o layout ConstraintLayout
+  * como exibir um novo Activity
+* [05 - Novo Curso - Android Studio Aula 05 – Construindo o Layout de Cadastro de Clientes - Parte 1](https://www.youtube.com/watch?v=kV0fMwUjQoA)
+  * alterar ícone componente FloatActionButton
+  * construir o layout do cadastro de clientes
 * [Desabilitar Google Play Protect](https://www.youtube.com/watch?v=i54s0cXckeo)
+  * Ensina como desabilitar a preteção do Google Play Protect

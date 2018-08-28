@@ -9,11 +9,16 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 import com.carteiracliente.josemarsilva.carteiradecliente.database.DadosOpenHelper;
+import com.carteiracliente.josemarsilva.carteiradecliente.dominio.entidades.Cliente;
+import com.carteiracliente.josemarsilva.carteiradecliente.dominio.repositorio.ClienteRepositorio;
+
+import java.util.List;
 
 public class ActMain extends AppCompatActivity { // deve herdar da classe  "AppCompatActivity" compatibiliza versoes
 
@@ -23,6 +28,11 @@ public class ActMain extends AppCompatActivity { // deve herdar da classe  "AppC
 
     private SQLiteDatabase conexao;
     private DadosOpenHelper dadosOpenHelper;
+
+    private ClienteRepositorio clienteRepositorio;
+
+    private ClienteAdapter clienteAdapter;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) { // método sempre chamado qdo activity for iniciado
@@ -37,6 +47,20 @@ public class ActMain extends AppCompatActivity { // deve herdar da classe  "AppC
         layoutCotentMain = (ConstraintLayout) findViewById(R.id.layout_content_main);
 
         criarConexao();
+
+        lstDados.setHasFixedSize(true);
+
+        LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
+        lstDados.setLayoutManager(linearLayoutManager);
+
+        clienteRepositorio = new ClienteRepositorio(conexao);
+
+        List<Cliente> dados =  clienteRepositorio.buscarTodos();
+
+        clienteAdapter = new ClienteAdapter(dados);
+
+        lstDados.setAdapter(clienteAdapter);
+
 
     }
 
